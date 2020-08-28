@@ -8,7 +8,7 @@ export default function SearchMovies(){
 //states for input query, and movies
 // use state will return an array of 2 things...
 // the state and a function that will update the state
-    const [query, setQuery] = useState('0');
+    const [query, setQuery] = useState('Movie');
 //create the state for movies, and update that state appropriate
     // const [movies, setMovies] = useState([]);
     
